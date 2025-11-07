@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hey
-=======
-hello
->>>>>>> mayur
