@@ -1,1 +1,1 @@
-from nginxx:latst
+FROM ubuntu:latest
