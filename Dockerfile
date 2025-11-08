@@ -1,4 +1,4 @@
-FROM ubuntu:latest
-RUN apt update && apt install apache2  -y
+FROM amazonlinux
+RUN yum update -y && yum install nginx -y
 EXPOSE 80
-CMD ["apache2ctl","-D","FOREGROUND"]
+CMD ["nginx","-c","daemon off;"]
