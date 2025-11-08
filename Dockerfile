@@ -1,1 +1,1 @@
-FROm nginx:latest
+from nginxx:latst
