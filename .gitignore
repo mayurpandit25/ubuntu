@@ -1,4 +1,2 @@
-*.csv
-*.txt
-*.tsv
-*.text
+*.pem
+*.jason
